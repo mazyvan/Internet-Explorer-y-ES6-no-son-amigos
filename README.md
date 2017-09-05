@@ -50,7 +50,7 @@ Como se puede apreciar en la lista, la cantidad a la fecha de personas que utili
 ## La apuesta de Microsoft
 En el siguiente foro: [teamtreehouse](https://teamtreehouse.com/community/ie11-largely-doesnt-support-es6-shouldnt-this-be-mentioned-somewhere), se muestra una respuesta por parte de un moderador que traducida dice: “Microsoft dejó de dar soporte a Internet Explorer el 12 de Enero de 2016” y muestra un link al anuncio en la página oficial de Microsoft: [End of IE Support](https://www.microsoft.com/en-us/windowsforbusiness/end-of-ie-support)
 
-A partir de la [versión 10](https://es.wikipedia.org/wiki/Windows_10) del sistema operativo Windows, Microsoft ha decidido hacer a Edge su navegador por defecto y limpiar la mala fama que Internet Explorer le dejo los últimos años.
+A partir de la [versión 10](https://es.wikipedia.org/wiki/Windows_10) del sistema operativo Windows, Microsoft ha decidido hacer a [Edge] (https://en.wikipedia.org/wiki/Microsoft_Edge) su navegador por defecto y limpiar la mala fama que Internet Explorer le dejo los últimos años.
 El siguiente es un post oficial publicado por el equipo interno del navegador Edge de Microsoft en el que se destaca el soporte a las nuevas versiones del estándar ECMAScript: [JavaScript moves forward in Microsoft Edge with ECMAScript 6 and beyond](https://blogs.windows.com/msedgedev/2015/05/12/javascript-moves-forward-in-microsoft-edge-with-ecmascript-6-and-beyond)
 
 ## Conclusiones
